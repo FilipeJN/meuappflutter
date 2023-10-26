@@ -1,6 +1,7 @@
 # meuappflutter
 
-A new Flutter project.
+Explorando a criação de um novo projeto flutter e utilizando o git para criar um novo repositório.
+
 
 ## Getting Started
 
